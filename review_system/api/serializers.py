@@ -22,8 +22,8 @@ class UserSerializer(serializers.Serializer):
         user.save()
         return user
 
-    def update(self, instance, validated_data):
-        return instance
+    # def update(self, instance, validated_data):
+    #     return instance
 
 
 class CompanySerializer(serializers.ModelSerializer):

@@ -4,10 +4,10 @@ Api for a review system. New users can register, already existing - add reviews 
 
 Main django-application 'api' contains all the models, serializers, urls, views and tests for them.
 
-InternDjangoTask/
-├── env/
-├── review_system/
-│   ├── api/
+InternDjangoTask/  
+├── env/  
+├── review_system/  
+│   ├── api/  
 │   └── review_system/
 
 ## Installation
